@@ -99,9 +99,9 @@ To interact with your deployed smart contract, complete the following steps:
 
 ![alt=“”](Images/SetAccounts.jpg)
 
-![alt=“”](Images/Withdraw AccountOne.jpg)
+![alt=“”](Images/WithdrawAccountOne.jpg)
 
-![alt=“”](Images/Withdraw AccountTwo.jpg)
+![alt=“”](Images/WithdrawAccountTwo.jpg)
 
 ---
 
